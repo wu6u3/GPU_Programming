@@ -1,4 +1,4 @@
-# CUDA MPs UIUC ECE508
+# Applied Parallel Algorithms on CUDA
 
 
 ## Requirements
