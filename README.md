@@ -1,4 +1,4 @@
-# CUDA programming
+# CUDA MPs UIUC ECE508
 
 
 ## Requirements
